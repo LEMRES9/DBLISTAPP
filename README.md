@@ -6,7 +6,7 @@ git pull origin master
 
 ```bash
 #必要なパッケージのインストール
-$ cd neo-front
+$ cd DBListApp-xxx
 $ npm install
 #省略
 ```
@@ -22,5 +22,6 @@ $ npm run serve
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### comit
-git commit -m "add xxxx"
-test
+$ git add .
+$ git commit -m "add xxxx"
+$ git git pull origin xxxxx
