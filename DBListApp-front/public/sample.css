@@ -1,0 +1,11 @@
+.sample-table {
+  font-size: 0.5em;
+  background-color: #fffff3;
+  border-collapse: collapse;
+}
+.sample-td {
+  border:solid 1px;
+}
+.small-input {
+    width: 59px;
+}
