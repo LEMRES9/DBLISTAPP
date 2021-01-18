@@ -24,4 +24,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### comit
 $ git add .
 $ git commit -m "add xxxx"
-$ git git pull origin xxxxx
+$ git git push origin xxxxx
